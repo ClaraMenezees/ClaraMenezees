@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante do último ano do curso Técnico Integrado em Informática para Internet — IFPE  
-  <br>Desenvolvedora apaixonada por soluções práticas, tecnologia e criatividade.
+  <br>Desenvolvimento web e criação de soluções eficientes e criativas.
 </p>
 
 ---
