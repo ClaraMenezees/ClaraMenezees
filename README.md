@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá! Eu sou a <strong>Clara Menezes</strong> ✨</h1>
+<h1 align="center">✨ Hi! Eu sou a <strong>Clara Menezes</strong> ✨</h1>
 
 <p align="center">
   Estudante do último ano do curso Técnico Integrado em Informática para Internet — IFPE  
