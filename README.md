@@ -42,9 +42,9 @@ Busco sempre crescer na área e construir soluções que façam a diferença.
 ## 📊 **Estatísticas do GitHub**
 > *(Essas imagens funcionam automaticamente quando você coloca no README)*
 
-![Clara GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Clara GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaraMenezees&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraMenezees&layout=compact&theme=dracula)
 
 ---
 
