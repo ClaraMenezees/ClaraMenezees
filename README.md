@@ -56,7 +56,7 @@ Meu objetivo é crescer na área de tecnologia e participar de projetos que real
 
 ## 📫 Como falar comigo
 📧 *aclaramenezes11@gmail.com* 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-menezes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-menezes-a3271a2ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1sfknAyjQseS8UsWgwQBGQ%3D%3D)
 
 ---
 
