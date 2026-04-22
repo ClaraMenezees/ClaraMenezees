@@ -1,9 +1,8 @@
 <h1 align="center">✨ Hi! Eu sou a <strong>Clara Menezes</strong> ✨</h1>
 
 <p align="center">
-   Técnico Integrado em Informática para Internet — IFPE 
+   Técnico Integrado em Informática para Internet — IFPE <br> Graduanda em Análise e Desenvolvimento de Sistemas
     
-  <br>Graduanda em Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
