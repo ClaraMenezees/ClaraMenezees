@@ -2,8 +2,8 @@
 
 <p align="center">
    Técnico Integrado em Informática para Internet — IFPE 
-    Graduanda em Análise e Desenvolvimento de Sistemas
-  <br>Desenvolvimento web e criação de soluções eficientes e criativas.
+    
+  <br>Graduanda em Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
