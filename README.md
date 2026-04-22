@@ -1,7 +1,8 @@
 <h1 align="center">✨ Hi! Eu sou a <strong>Clara Menezes</strong> ✨</h1>
 
 <p align="center">
-  Estudante do último ano do curso Técnico Integrado em Informática para Internet — IFPE  
+   Técnico Integrado em Informática para Internet — IFPE 
+    Graduanda em Análise e Desenvolvimento de Sistemas
   <br>Desenvolvimento web e criação de soluções eficientes e criativas.
 </p>
 
