@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi! Eu sou a <strong>Clara Menezes</strong> ✨</h1>
 
 <p align="center">
-   Desenvolvedora em formação apaixonada por tecnologia, desenvolvimento web e criação de soluções digitais.<br> Técnica em Informática para Internet <br> Graduanda em Análise e Desenvolvimento de Sistemas | IFPE
+   Desenvolvedora em formação apaixonada por tecnologia, desenvolvimento web e criação de soluções digitais.<br> Técnica em Informática para Internet | IFPE <br> Graduanda em Análise e Desenvolvimento de Sistemas | IFPE
     
 </p>
 
@@ -55,7 +55,7 @@ Meu objetivo é crescer na área de tecnologia e participar de projetos que real
 ---
 
 ## 📫 Como falar comigo
-📧 *aclaramenezes11@gmail.com* 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aclaramenezes11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-menezes-a3271a2ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1sfknAyjQseS8UsWgwQBGQ%3D%3D)
 
 ---
